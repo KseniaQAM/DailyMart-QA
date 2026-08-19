@@ -86,7 +86,9 @@ DailyMart — веб-сайт интернет-магазина. В рамках
 
 **GitHub:**
 
-- [Functional Testing Checklist](docs/FUNCTIONAL_CHECKLIST.md)
+- [Functional Checklist](docs/FUNCTIONAL_CHECKLIST.md)
+- [Test Cases](docs/TEST_CASES.md)
+- [Bug Reports](docs/BUG_REPORTS.md)
 - [Regression Checklist](docs/REGRESSION_CHECKLIST.md)
 - [Test Report](docs/TEST_REPORT.md)
 
