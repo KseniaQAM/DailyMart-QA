@@ -36,7 +36,8 @@
 ## TC-REG-002 — Регистрация с пустым полем «Имя»
 
 **Priority:** High  
-**Status:** Failed
+**Status:** Failed  
+**Defect:** BR-004
 
 ### Preconditions
 1. Пользователь находится на странице регистрации.
@@ -62,7 +63,8 @@
 ## TC-REG-003 — Регистрация с именем длиной 1 символ
 
 **Priority:** High  
-**Status:** Failed
+**Status:** Failed  
+**Defect:** BR-018
 
 ### Preconditions
 1. Пользователь находится на странице регистрации.
@@ -89,7 +91,8 @@
 ## TC-REG-004 — Регистрация с уже зарегистрированным email
 
 **Priority:** High  
-**Status:** Failed
+**Status:** Failed  
+**Defect:** BR-011
 
 ### Preconditions
 1. Пользователь находится на странице регистрации.
@@ -116,7 +119,8 @@
 ## TC-REG-005 — Регистрация с email без доменной части
 
 **Priority:** High  
-**Status:** Failed
+**Status:** Failed  
+**Defect:** BR-017
 
 ### Preconditions
 Пользователь находится на странице регистрации.
@@ -142,7 +146,8 @@
 ## TC-REG-006 — Регистрация с паролем длиной 7 символов
 
 **Priority:** High  
-**Status:** Failed
+**Status:** Failed  
+**Defect:** BR-007
 
 ### Preconditions
 1. Пользователь находится на странице регистрации.
